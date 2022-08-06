@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 @RestController
-@RequestMapping("/api/orgaos")
+@RequestMapping("/api/orgaos/fiscalizador")
 public class OrgaoFiscalizadorController {
     @Autowired
     OrgaoFiscalizadorService orgaoFiscalizadorService;
