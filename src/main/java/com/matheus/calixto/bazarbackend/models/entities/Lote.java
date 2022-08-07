@@ -53,7 +53,7 @@ public class Lote {
     this.orgaoDonatario = orgaoDonatario;
   }
 
-  public int setOrgaoFiscalizador() {
+  public int getOrgaoFiscalizador() {
     return orgaoFiscalizador;
   }
 
